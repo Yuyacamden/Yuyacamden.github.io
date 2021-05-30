@@ -11,5 +11,5 @@
 　　
 ![直近の作品2](https://yuyacamden.github.io/copairp.PNG)　　
 　　
-![直近の作品3](https://yuyacamden.github.io/wavwav.)　　
+![直近の作品3](https://yuyacamden.github.io/wavwav.PNG)　　
 
