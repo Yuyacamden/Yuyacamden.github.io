@@ -4,5 +4,5 @@
 
 ぼちぼち更新していく予定です。
 
-[直近の作品](https://yuyacamden.github.io/ftprnt.jpg)
+![直近の作品](https://yuyacamden.github.io/ftprnt.jpg)
 
