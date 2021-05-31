@@ -1,5 +1,5 @@
 layout: page
-title: "Yuyacamde Blog"
+title: "Yuyacamden Blog"
 permalink: /jklblogs/blog/
 
 #テストブログ
