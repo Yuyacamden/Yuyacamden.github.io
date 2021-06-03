@@ -1,6 +1,6 @@
 ---
 # YAML Front Matter
-layout: page
+layout: post
 title: "Yuyacamden Blog"
 permalink: /jklblogs/blog/
 ---
