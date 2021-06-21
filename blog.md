@@ -8,8 +8,7 @@
 ご質問等は下記へお願いします。<br>
 [yuyacamden@gmail.com](mailto:yuyacamden@gmail.com)<br>
 <br>
-<br>
-If you have any questions, please contact us at<br>
+If you have any questions, please contact me at<br>
 [yuyacamden@gmail.com](mailto:yuyacamden@gmail.com)<br>
 <br>
 <br>
