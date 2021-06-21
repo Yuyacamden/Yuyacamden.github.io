@@ -6,7 +6,6 @@
 <br>
 自分のホームページ用にメールアドレスを作成してみました。<br>
 ご質問等は下記へお願いします。<br>
-[yuyacamden@gmail.com](mailto:yuyacamden@gmail.com)<br>
 <br>
 If you have any questions, please contact me at<br>
 [yuyacamden@gmail.com](mailto:yuyacamden@gmail.com)<br>
